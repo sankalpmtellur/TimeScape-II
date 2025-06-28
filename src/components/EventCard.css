@@ -1,0 +1,26 @@
+.event-card-small {
+  background: white;
+  border-radius: 16px;
+  padding: 1rem;
+  width: 280px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.event-card-small:hover {
+  transform: scale(1.03);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+}
+
+.event-year {
+  font-weight: bold;
+  font-size: 1.1rem;
+  color: #3f3d56;
+}
+
+.event-snippet {
+  font-size: 0.95rem;
+  margin-top: 0.5rem;
+  color: #444;
+}
