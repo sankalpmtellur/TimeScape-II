@@ -12,6 +12,7 @@
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
+    "@capacitor/android": "^7.4.0",
     "@capacitor/cli": "^7.4.0",
     "@capacitor/core": "^7.4.0",
     "axios": "^1.10.0",
