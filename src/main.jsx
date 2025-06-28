@@ -6,7 +6,7 @@ import App from './App';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <BrowserRouter basename="/TimeScape-II">
+    <BrowserRouter basename="/TimeScape_II">
       <App />
     </BrowserRouter>
   </React.StrictMode>
